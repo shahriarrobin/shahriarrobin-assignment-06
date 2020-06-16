@@ -1,0 +1,72 @@
+.header01{
+	background-color:#13264A;
+	min-height:80px
+	
+
+}
+
+.wrapper{
+	overflow:hidden;
+}
+
+.blog{
+	background-color:#02F6CE;
+	min-height: 100px;
+	width:70%;
+	float:left;
+
+}
+
+.contact{
+	background-color:#490257;
+	min-height: 100px;
+	width:30%;
+	float:right;
+}
+
+.footer{
+
+	background-color:#13264A;
+	min-height:50px;
+}
+ .header02{
+ 	text-align: center;
+ }
+ .header03{
+ 	color:white;
+ 	text-align: center;
+ }
+ .header04{
+ 	text-align: center;
+ }
+ 
+ .header05{
+ 	color:#78EF6A;
+ 	text-align: center;
+ }
+ .content1{
+ 	
+ }
+
+.paragraph{
+	
+		background-color:#ABF1F1;
+	min-height: 500px;
+ }
+
+
+
+.table{
+	background-color: #505C6F;
+	min-height: 50px;
+}
+table{
+
+	width:50%;
+	border:1px dotted red;
+
+}
+th,td{
+	border:1px solid red;
+	text-align: center;
+}
